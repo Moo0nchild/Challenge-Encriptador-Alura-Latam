@@ -10,9 +10,10 @@
 }
 
 .logo {
+    position: fixed;
     margin-top: 10px;
     margin-left: 10px;
-    width: 2%;
+    width: 3%;
 }
 
 main {
